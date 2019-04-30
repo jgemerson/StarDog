@@ -24,7 +24,7 @@ Packages used:
  - [dyplr](https://www.rdocumentation.org/packages/dplyr/versions/0.7.8)
 
 ## Version
-Current verion: 1.0.4. 
+Current version: 1.0.4. 
 The app is partially completed, and has not undergone testing.
 Last updated March 27, 2019.
 
